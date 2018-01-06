@@ -51,6 +51,18 @@
     "color": "#FF5000"
   },
   {
+    "name": "itz",
+    "properName": "ITZ",
+    "decimals": 2,
+    "displayUnit": "ITZ",
+    "shapeShiftUnit": "itz",
+    "blockExplorer": "ITZ",
+    "addresses": {
+        "current": "0xa32b837dDF5859EeA664273b633b1cf47F1cDAf9"
+    },
+    "color": "#FF5000"
+  },
+  {
     "name": "civic",
     "properName": "Civic",
     "decimals": 8,
