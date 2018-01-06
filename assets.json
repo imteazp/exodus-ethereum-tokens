@@ -159,6 +159,18 @@
     "color": "#FFFFFF"
   },
   {
+    "name": "puc",
+    "properName": "PUC",
+    "decimals": 0,
+    "displayUnit": "PUC",
+    "shapeShiftUnit": "puc",
+    "blockExplorer": "PUC",
+    "addresses": {
+        "current": "0xef6b4ce8c9bc83744fbcde2657b32ec18790458a"
+    },
+    "color": "#FFFFFF"
+  },
+  {
     "name": "omisego",
     "properName": "OmiseGo",
     "decimals": 18,
