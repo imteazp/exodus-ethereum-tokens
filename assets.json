@@ -39,6 +39,18 @@
     "color": "#676981"
   },
   {
+    "name": "imteaz",
+    "properName": "Imteaz",
+    "decimals": 2,
+    "displayUnit": "P",
+    "shapeShiftUnit": "p",
+    "blockExplorer": "Imteaz",
+    "addresses": {
+        "current": "0xa32b837dDF5859EeA664273b633b1cf47F1cDAf9"
+    },
+"color": "#676981" 
+  },
+  {
     "name": "bat",
     "properName": "BAT",
     "decimals": 18,
